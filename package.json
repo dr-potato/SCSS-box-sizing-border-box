@@ -1,25 +1,26 @@
 {
-  "name": "css-box-sizing-border-box",
+  "name": "SCSS box-sizing-border-box partial",
   "version": "0.1.0",
-  "description": "CSS for applying box-sizing: border-box; to every element.",
-  "style": "index.css",
+  "description": "SCSS partial for applying box-sizing: border-box; to every element.",
+  "style": "box-sizing.scss",
   "repository": {
     "type": "git",
-    "url": "git@github.com:colingourlay/css-box-sizing-border-box.git"
+    "url": "git@github.com:dr-potato/SCSS-box-sizing-border-box.git"
   },
   "keywords": [
     "css",
+    "scss",
     "box-sizing",
     "border-box"
   ],
   "author": {
-    "name": "Colin Gourlay",
-    "email": "colin@colin-gourlay.com",
-    "url": "http://colin-gourlay.com"
+    "name": "Dr Potato",
+    "email": "dr-potato@users.noreply.github.com",
+    "url": "https://github.com/dr-potato"
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/colingourlay/css-box-sizing-border-box/issues"
+    "url": "https://github.com/dr-potato/SCSS-box-sizing-border-box/issues"
   },
-  "homepage": "https://github.com/colingourlay/css-box-sizing-border-box"
+  "homepage": "https://github.com/dr-potato/SCSS-box-sizing-border-box"
 }

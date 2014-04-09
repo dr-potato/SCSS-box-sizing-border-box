@@ -1,4 +1,4 @@
-css-box-sizing-border-box
-=========================
+SCSS-box-sizing-border-box
+==========================
 
-CSS for applying `box-sizing: border-box;` to every element.
+An SCSS partial for applying `box-sizing: border-box;` to every element. Credit goes to Colin Gourlay for creating the original CSS version.
