@@ -1,6 +1,6 @@
 {
   "name": "SCSS box-sizing-border-box partial",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "SCSS partial for applying box-sizing: border-box; to every element.",
   "style": "box-sizing.scss",
   "repository": {
