@@ -1,0 +1,26 @@
+{
+  "name": "SCSS box-sizing border-box",
+  "version": "0.1.0",
+  "homepage": "https://github.com/dr-potato/SCSS-box-sizing-border-box",
+  "authors": [
+    "Dr Potato <dr-potato@users.noreply.github.com>"
+  ],
+  "description": "SCSS partial to apply box-sizing:border-box to all elements",
+  "main": "_box-sizing.scss",
+  "keywords": [
+    "scss",
+    "box",
+    "sizing",
+    "border",
+    "box",
+    "partial"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
